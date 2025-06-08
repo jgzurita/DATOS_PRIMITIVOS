@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DATOS_PRIMITIVOS/1.0.0": {
+        "runtime": {
+          "DATOS_PRIMITIVOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DATOS_PRIMITIVOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
